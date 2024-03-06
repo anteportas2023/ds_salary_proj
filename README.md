@@ -49,7 +49,8 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
-![Job_simp](
+![Job_simp](https://github.com/anteportas2023/ds_salary_proj/blob/main/firefox_X7Y8zObi9Q.png)
+![Area](
 
 # Model Building
 
