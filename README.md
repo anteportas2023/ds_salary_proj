@@ -67,9 +67,9 @@ I tried three different models:
 
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 
-- Random Forest : MAE = 11.22
+- Random Forest : MAE = -15.11
 - Linear Regression: MAE = -20.77
-- Ridge Regression: MAE = 19.67
+- Ridge Regression: MAE = -19.26
 
 
 
