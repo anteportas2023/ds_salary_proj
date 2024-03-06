@@ -51,7 +51,7 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![Job_simp](https://github.com/anteportas2023/ds_salary_proj/blob/main/firefox_X7Y8zObi9Q.png)
 ![Location](https://github.com/anteportas2023/ds_salary_proj/blob/main/firefox_QgwQJnixf8.png)
-![Heat map](
+![Heat map](https://github.com/anteportas2023/ds_salary_proj/blob/main/firefox_HX9kAdDAp5.png)
 
 # Model Building
 
